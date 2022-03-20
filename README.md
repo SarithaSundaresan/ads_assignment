@@ -1,7 +1,8 @@
 # Comic Characters in Marvel and DC
 
 This folder contains data behind the story [Comic Books Are Still Made By Men, For Men And About Men]
-(http://fivethirtyeight.com/features/women-in-comic-books/).
+Reference - (http://fivethirtyeight.com/features/women-in-comic-books/)
+https://medium.com/nerd-for-tech/marvel-vs-dc-comparative-gender-analysis-using-python-207767595d17
 
 The data comes from [Marvel Wikia](http://marvel.wikia.com/Main_Page) and [DC Wikia](http://dc.wikia.com/wiki/Main_Page). 
 The data is split into two files, for DC and Marvel, respectively: `dc-wikia-data.csv` and `marvel-wikia-data.csv`. Each file has the following variables:
